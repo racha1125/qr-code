@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    max-width: 1440px;
+}
+.main{
+    background-color:hsl(221, 61%, 88%);
+    margin: 70px 40PX;
+    padding: 40px;
+    box-shadow: 3px 3px 20px rgb(175, 174, 174);
+    
+}
+.qr{
+    background-color: white;
+    padding:10px;
+    margin: 40px 460px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 20px rgb(175, 174, 174);
+
+}
+.qr-code{
+    border-radius: 10px;
+    width: 100%;
+}
+p{
+    font-size: 13px;
+}
+h1{
+    font-size: 17px;
+    font-weight: 700px;
+}
+
+
+
+
